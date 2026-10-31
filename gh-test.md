@@ -6,7 +6,7 @@ This file is for the GRSMD GitHub link test (PRT-AK01 to AK06). It holds nothing
 
 Line A: edit this line in GRSMD. ok.
 
-Line B: edit this line on the GitHub web page.
+Line B: edit this line on the GitHub web page. web
 
 ## Image
 
